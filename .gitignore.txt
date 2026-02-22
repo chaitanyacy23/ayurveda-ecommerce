@@ -30,6 +30,6 @@ node_modules/
 appsettings.Development.json
 
 .vsidx
-.cache
-db-shm
-db-wal
+*.cache
+*.db-shm
+*.db-wal
