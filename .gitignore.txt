@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Environment
+appsettings.Development.json

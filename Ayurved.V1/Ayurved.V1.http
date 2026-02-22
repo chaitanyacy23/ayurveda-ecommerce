@@ -1,0 +1,6 @@
+@Ayurved.V1_HostAddress = http://localhost:5055
+
+GET {{Ayurved.V1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
