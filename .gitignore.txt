@@ -28,3 +28,8 @@ node_modules/
 
 # Environment
 appsettings.Development.json
+
+.vsidx
+.cache
+db-shm
+db-wal

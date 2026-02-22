@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ayurved.V1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fc48d8f857b098a181e9c7d71d21322bb19f5bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ayurved.V1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ayurved.V1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
